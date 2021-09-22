@@ -1,2 +1,2 @@
 # lab2shaders
-! [](Jupiter.jpg)
+ ![Screenshot](Jupiter.jpg)
